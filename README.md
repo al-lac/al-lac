@@ -1,4 +1,8 @@
-### Hi there 👋
+```bash
+#!/bin/sh
+
+echo "Hello World! 👋"
+```
 
 <!--
 **al-lac/al-lac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
