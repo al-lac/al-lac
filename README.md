@@ -1,4 +1,4 @@
-# Hi, I am Alex! 👋
+# Hi, I'm Alex! 👋👨🏻‍💻
 
 Here is a little something about me.
 
