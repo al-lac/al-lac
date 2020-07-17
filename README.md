@@ -2,7 +2,25 @@
 #!/bin/sh
 
 echo "Hello World! 👋"
+
+echo "Currently working as an Infrastructure Engineer at Runtastic 🏃🏻‍♂"
+
+cat skills.txt
+
+ansible
+azure
+bash
+linux
+powershell
+terraform
+...
+
 ```
+
+📫 How to reach me:
+- <img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15" height="15"> [Linkedin](https://www.linkedin.com/in/alexander-lackner)
+- <img src="https://www.xing.com/assets/frontend_minified/img/shared/xing_r1.ico" width="15" height="15"> [Xing](https://xing.to/lackner)
+
 
 <!--
 **al-lac/al-lac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
