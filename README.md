@@ -26,8 +26,11 @@ terraform
 ```
 
 ## 📫 How to reach me
-- Reach me on [Linkedin](https://www.linkedin.com/in/alexander-lackner) <img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15" height="15"> 
-- And [Xing](https://xing.to/lackner) <img src="https://www.xing.com/assets/frontend_minified/img/shared/xing_r1.ico" width="15" height="15">
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-lackner/)](https://www.linkedin.com/in/alexander-lackner/) 
+[![Xing Badge](https://img.shields.io/badge/Xing-green?style=flat&logo=Xing&logoColor=white&link=https://xing.to/lackner)](https://xing.to/lackner) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/al-lac)](https://github.com/al-lac)
+[![GitLab](https://img.shields.io/badge/-GitLab-696969?style=flat&logo=gitlab&color696969&link=https://github.com/al-lac)](https://gitlab.com/al-lac)
 
 
 <!--
