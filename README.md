@@ -16,8 +16,11 @@ Currently working as an Infrastructure Engineer at Runtastic 🏃🏻‍♂
 cat skills.txt
 
 ansible
+aws
 azure
 bash
+gitops
+k8s
 linux
 powershell
 terraform
