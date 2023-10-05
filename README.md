@@ -22,6 +22,7 @@ bash
 gitops
 k8s
 linux
+observability
 powershell
 terraform
 ...
